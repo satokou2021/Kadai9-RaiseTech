@@ -393,3 +393,4 @@ Resources:
             DeviceIndex: 0
             InstanceId: !Ref EC2Instance
             DeleteOnTermination: true
+# Pull Request します。　添削お願いします！
